@@ -1,0 +1,29 @@
+{
+  "Bengkel": [
+    {
+      "id": 2,
+      "nama": "Kampas depan",
+      "harga": 25000
+    },
+    {
+      "id": 3,
+      "nama": "Kampas Belakang",
+      "harga": 45000
+    },
+    {
+      "id": 4,
+      "nama": "oli gardan",
+      "harga": 15000
+    },
+    {
+      "id": 6,
+      "nama": "oli bang",
+      "harga": "100000"
+    },
+    {
+      "id": 7,
+      "nama": "coba sekali",
+      "harga": "90000"
+    }
+  ]
+}
